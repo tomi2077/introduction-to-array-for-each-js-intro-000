@@ -3,5 +3,5 @@ var doToElementsInArray = (array, callback) => {
 }
 
 var changeCompletely = () => {
-
+  
 }
