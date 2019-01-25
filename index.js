@@ -1,6 +1,6 @@
 var doToElementsInArray = () => {
   var array = []
-  array.forEach(doToElementsInArray(i))
+  array.forEach(doToElementsInArray)
 }
 
 
