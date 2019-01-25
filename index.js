@@ -4,7 +4,7 @@ var doToElementsInArray = () => {
 
 const array = ["apple", "banana", "cherry"];
 
-const callback = 
+array.forEachconst callback =  functon()
 array.forEach(doToElementsInArray())
   
 
@@ -13,4 +13,8 @@ array.forEach(doToElementsInArray())
         return `Mmmm, ${fruit}!!!`;
       };
 
+const arr = ['cat', 'dog', 'fish'];
+arr.forEach(element => {
+  console.log(element);
+});
 
