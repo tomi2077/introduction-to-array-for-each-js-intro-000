@@ -1,15 +1,9 @@
-var doToElementsInArray = () => {
-  var array = []
-  array.forEach(doToElementsInArray)
-}
 
+var array = []
 
-
-const arr = ['cat', 'dog', 'fish'];
-arr.forEach(element => {
-  console.log(element);
-});
-
+array.forEach(doToElementsInArray => {
+console.log(element);
+})
 
 
 
