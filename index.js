@@ -1,10 +1,10 @@
+var doToElementsInArray = () => {
+  
+}
 
 var array = []
-
-array.forEach(doToElementsInArray => {
-console.log(element);
-})
-
+array.forEach(doToElementsInArray())
+  
 
 
 
