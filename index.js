@@ -2,7 +2,9 @@ var doToElementsInArray = () => {
   
 }
 
-var array = []
+const array = ["apple", "banana", "cherry"];
+
+const callback = 
 array.forEach(doToElementsInArray())
   
 
@@ -10,4 +12,5 @@ array.forEach(doToElementsInArray())
       const callback = function(fruit) {
         return `Mmmm, ${fruit}!!!`;
       };
+
 
