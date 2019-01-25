@@ -1,3 +1,3 @@
-var doToElementsInArray() => {
+var doToElementsInArray = () => {
   
 }
